@@ -1,0 +1,50 @@
+/*css Dasmoto Art's and Crafts*/
+
+#logo {
+  background-image: url(pattern.jpeg);
+  font-family: Helvetica;
+  text-align:center;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+#brushes, #frames, #paint {
+  font-family: Helvetica;
+  color: white;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+#brushes h2  {
+  background-color: mediumspringgreen;
+}
+
+#frames h2 {
+  background-color: lightcoral;
+}
+
+#paint h2 {
+  background-color: skyblue;
+}
+
+.price {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+
+p {
+  font-family: Helvetica;
+  font-size: 20px;
+  color: black;
+}
+
+img {
+  display: block;
+}
+
+h3 {
+  color: black;
+  font-size: 28px
+}
